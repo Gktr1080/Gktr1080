@@ -37,7 +37,7 @@ Hi, I am Gaurav Katiyar !
 
 
 
-![](http://github-readme-streak-stats.herokuapp.com?user=Gktr1080&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+![streak](http://github-readme-streak-stats.herokuapp.com?user=Gktr1080&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
 
 
 
@@ -45,4 +45,4 @@ Hi, I am Gaurav Katiyar !
 
 
 
-![](https://activity-graph.herokuapp.com/graph?username=Gktr1080&theme=dracula)
+![graph](https://activity-graph.herokuapp.com/graph?username=Gktr1080&theme=dracula)
