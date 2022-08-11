@@ -10,6 +10,11 @@ You can find me here :
 ## About Me
 Hi, I am Gaurav Katiyar !
 - 💻 I am a Btech student with majors in Computer Science from Vellore Institute of Technology.
+🔭 I’m currently working on Web Development
+
+👯 I’m looking to collaborate on JAVA
+
+📫 How to reach me gauravkatiyar1080@gmail.com
 
  
 ## Tech Stack
