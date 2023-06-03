@@ -1,7 +1,7 @@
 ### Heyyy!!! 👋
 
 
-You can find me here :
+You can find me here:
 <p align="left">
   <a href="https://www.linkedin.com/in/gaurav-katiyar/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
   <p> </p>
