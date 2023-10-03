@@ -41,9 +41,9 @@ Hi, I am Gaurav Katiyar !
   
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Gktr1080&show_icons=true&include_all_commits=true&theme=radical) ![streak](http://github-readme-streak-stats.herokuapp.com?user=Gktr1080&theme=dracula&date_format=M%20j%5B%2C%20Y%5D) 
 
+<h1> Leetcode </h1>
 
-
-![](https://leetcard.jacoblin.cool/Gktr1080?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Gktr1080?ext=heatmap&theme=dark&border=3&radius=20)
 
 
 
