@@ -1,5 +1,4 @@
 ### Heyyy!!! 👋
-<p>Hello, My Name is Gaurav Katiyar, Welcome to My Github Profile, I am a front-End developer, I'm a Computer Science Engineering Student at VIT Bhopal University, .</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
