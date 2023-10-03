@@ -50,7 +50,7 @@ Hello, my name is Gaurav Katiyar and I am a Engineering student at Vellore Insti
 
 <h1> Leetcode </h1>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Gktr1080?ext=heatmap&theme=dark&border=3&radius=20)
+![Leetcode Stats](![](https://leetcard.jacoblin.cool/Gktr1080?animation=false))
 
 
 
