@@ -9,13 +9,9 @@ You can find me here:
     
 
 ## About Me
-Hi, I am Gaurav Katiyar !
-- 💻 I am a B.Tech student with majors in Computer Science from Vellore Institute of Technology.
-
+Hello, my name is Gaurav Katiyar and I am a Engineering student at Vellore Institute of Technology Bhopal majoring in Computer Science. I am a Web developer. My technology stack involves Java, MySQL, javascript, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music and Photography.
 🔭 I’m currently working on Web Development
-
 👯 I’m looking to collaborate on JAVA
-
 📫 How to reach me gauravkatiyar1080@gmail.com
 
  
@@ -29,7 +25,6 @@ Hi, I am Gaurav Katiyar !
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
  </a>
 </p>
