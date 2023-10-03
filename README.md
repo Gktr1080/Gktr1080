@@ -33,9 +33,6 @@ Hi, I am Gaurav Katiyar !
 
  </a>
 </p>
-<h1> Languages </h1>
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gktr1080&langs_count=5&theme=tokyonight)]()
 
 ## 📊 &nbsp;Stats:
   
@@ -43,7 +40,9 @@ Hi, I am Gaurav Katiyar !
 
 <h1> Leetcode </h1>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Gktr1080?ext=heatmap&theme=dark&border=3&radius=20)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Gktr1080?ext=heatmap&theme=dark&border=3&radius=20)<h1> Languages </h1>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gktr1080&langs_count=5&theme=tokyonight)]()
 
 
 
