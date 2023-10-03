@@ -36,6 +36,8 @@ Hi, I am Gaurav Katiyar !
 <h1> Languages </h1>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gktr1080&langs_count=5&theme=tokyonight)]()
+
+## 📊 &nbsp;Stats:
   
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Gktr1080&show_icons=true&include_all_commits=true&theme=radical) ![streak](http://github-readme-streak-stats.herokuapp.com?user=Gktr1080&theme=dracula&date_format=M%20j%5B%2C%20Y%5D) 
 
