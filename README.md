@@ -43,6 +43,7 @@ Hi, I am Gaurav Katiyar !
 
 
 ![streak](http://github-readme-streak-stats.herokuapp.com?user=Gktr1080&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+![](https://leetcard.jacoblin.cool/Gktr1080?ext=heatmap)
 
 
 
