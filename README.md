@@ -1,4 +1,6 @@
 ### Heyyy!!! 👋
+<p>Hello, My Name is Gaurav Katiyar, Welcome to My Github Profile, I am a front-End developer, I'm a Computer Science Engineering Student at VIT Bhopal University, .</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
 You can find me here:
@@ -10,8 +12,11 @@ You can find me here:
 
 ## About Me
 Hello, my name is Gaurav Katiyar and I am a Engineering student at Vellore Institute of Technology Bhopal majoring in Computer Science. I am a Web developer. My technology stack involves Java, MySQL, javascript, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music and Photography.
+
 🔭 I’m currently working on Web Development
+
 👯 I’m looking to collaborate on JAVA
+
 📫 How to reach me gauravkatiyar1080@gmail.com
 
  
